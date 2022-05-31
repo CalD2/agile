@@ -1,17 +1,14 @@
 ## Table des matières
 1. [Info General](#infos)
-2. [Répartition des tâches](#répartition-des-tâches)
-3. [ESLint](#ESLint)
-4. [Syntaxe de code](#syntaxes)
-5. [Definition of Done](#definition-of-done)
-6. [Documentation](#documentation)
-7. [Liens utiles](#liens)
+2. [ESLint](#ESLint)
+3. [Syntaxe de code](#syntaxes)
+4. [Definition of Done](#definition-of-done)
+5. [Documentation](#documentation)
+6. [Liens utiles](#liens)
 
 
 ### Infos
 Cette documentation sert de guide aux projets informatique de l'entreprise Loc’Fast et explique les bonnes pratiques de code à respecter pour garder un code maintenable.
-
-### Répartition des tâches
 
 ### ESLint
 
